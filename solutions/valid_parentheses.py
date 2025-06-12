@@ -8,7 +8,7 @@ class Solution:
         close_brackets = {
             ')': '(',
             '}': '{',
-            ']': '['
+            ']': '[',
         }
 
         brackets_stack = []
